@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.sidebar .stNumberInput {
+    width: 100%;
+}
+
+.sidebar .stButton button {
+    background-color: #025246;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.sidebar .stButton button:hover {
+    background-color: #037b76;
+}
